@@ -1,5 +1,5 @@
 "use strict";
-alert('Privet Mir') 
+alert('Привет') 
 
  
 alert('Privet Mir') 
