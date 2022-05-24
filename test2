@@ -1,6 +1,6 @@
 "use strict";
 alert('Привет') 
-
+alert('Hello') 
  
 alert('Privet Mir') 
 
